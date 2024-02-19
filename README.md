@@ -1,6 +1,6 @@
 # Hand Gesture Recognition using MediaPipe
 
-![Hand Gesture Recognition](https://github.com/gauravzack12/gesture-detetction/assets/84471237/60ee5070-5424-4ede-a3a1-da0cf935c251)
+![Hand Gesture Recognition](https://github.com/gauravzack12/gesture-detetction/assets/84471237/91652455-836f-47ff-9bcd-142bd87cf6f9)
 
 This Python project utilizes the [MediaPipe](https://mediapipe.dev/) library and [OpenCV](https://opencv.org/) to perform real-time hand gesture recognition. With this code, you can control your computer's cursor and keyboard using hand gestures.
 
